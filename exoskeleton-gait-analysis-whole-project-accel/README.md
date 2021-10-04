@@ -1,0 +1,1 @@
+This project focuses on gait anaysis using Accelerometers and Gyroscopes
